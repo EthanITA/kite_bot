@@ -1,0 +1,2 @@
+requests~=2.25.0
+randomwordgenerator~=1.0.0
